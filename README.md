@@ -8,7 +8,7 @@
 
 # Anatomy
 
-This GitHub repository houses the code and resources for an Augmented Reality (AR) project that aims to enhance the understanding and visualization of complex biology diagrams by augmenting them with 3D models. This project leverages the power of AR technology to make studying and comprehending intricate biological concepts more engaging and accessible.
+This GitHub repository houses the code and resources for an Augmented Reality (AR) project that aims to enhance the understanding and visualization of complex biology diagrams by augmenting them with 3D models. This project leverages the power of AR technology to make studying and comprehending intricate biological concepts more engaging and accessible. 
 
 <br>
 
