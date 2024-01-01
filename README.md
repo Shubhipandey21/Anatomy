@@ -22,7 +22,7 @@ Interactivity: Interact with 3D models to explore different parts and aspects of
 Enhanced Learning: Improve the learning experience by making abstract biological concepts more tangible and engaging.
 Customizable: Add new biology diagrams and 3D models or modify existing ones to suit your specific learning needs.
 Multi-Platform Support: Compatible with various AR-capable devices, including smartphones and AR glasses.
-
+ 
 
 ## Getting Started
 Follow these instructions to get the project up and running on your local machine or AR-capable device.
